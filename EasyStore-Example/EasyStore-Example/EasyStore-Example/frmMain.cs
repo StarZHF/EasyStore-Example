@@ -19,7 +19,7 @@ namespace EasyStore_Example
          * Execute in memory only supports Managed (.net) payloads.
          * This code is explicitly for educational purposes only.
          * 
-         * Note: This is a viable method for most larger payloads.
+         * Note: This is NOT a viable method for most larger payloads.
          */
 
 
